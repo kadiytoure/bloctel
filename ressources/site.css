@@ -1,0 +1,41 @@
+#conteneur
+
+{
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+section
+
+{
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+
+#blue
+
+{
+
+    background-color: blue; 
+
+    color: white; 
+
+}
+
+#grey
+
+{
+
+    background-color: grey;
+    
+    color: white;
+}
+
+
